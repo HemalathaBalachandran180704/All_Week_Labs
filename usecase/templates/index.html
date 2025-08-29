@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Viewer</title>
+  <script>
+    async function fetchNext() {
+      const response = await fetch('/next');
+      const data = await response.json();
+      document.getElementById("name").innerText = data.name;
+      document.getElementById("location").innerText = data.location;
+    }
+    setInterval(fetchNext, 5000);
+  </script>
+</head>
+<body>
+  <h2>User Viewer</h2>
+  <button onclick="fetchNext()">Submit</button>
+  <h3>User Display</h3>
+  <p><b>Name:</b> <span id="name"></span></p>
+  <p><b>Location:</b> <span id="location"></span></p>
+</body>
+</html>
