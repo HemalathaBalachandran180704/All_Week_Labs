@@ -1,0 +1,36 @@
+{
+    "model": "ARIMA",
+    "task_id": 2,
+    "description": "Forecast using ARIMA and evaluate accuracy",
+    "input_example": {
+        "timestamp": [
+            "2025-09-01",
+            "2025-09-02",
+            "2025-09-03"
+        ],
+        "sales": [
+            120,
+            135,
+            150
+        ]
+    },
+    "predictions": {
+        "forecast_dates": [
+            "2025-09-04",
+            "2025-09-05",
+            "2025-09-06"
+        ],
+        "forecast_values": [
+            160,
+            170,
+            165
+        ]
+    },
+    "metrics": {
+        "mae": 5.4,
+        "rmse": 7.2,
+        "mape": 0.042
+    },
+    "status": "success",
+    "deployed_on": "sagemaker-endpoint-arima-v1"
+}
