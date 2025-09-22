@@ -1,0 +1,151 @@
+Exercise Name,Type,Difficulty,Duration(min),Target Body Part,Equipment
+Exercise 1 - Lunges,Strength,Beginner,20,Full Body,Mat
+Exercise 2 - Jump Rope,Cardio,Beginner,30,Legs,Resistance Bands
+Exercise 3 - HIIT,Cardio,Intermediate,30,Legs,Barbell
+Exercise 4 - Dumbbell Press,Strength,Advanced,20,Back,Dumbbells
+Exercise 5 - HIIT,Cardio,Beginner,10,Chest,Mat
+Exercise 6 - HIIT,Cardio,Intermediate,20,Chest,Dumbbells
+Exercise 7 - Russian Twists,Core,Beginner,30,Legs,None
+Exercise 8 - Jump Rope,Cardio,Intermediate,20,Chest,Resistance Bands
+Exercise 9 - Russian Twists,Core,Beginner,30,Core,None
+Exercise 10 - Rowing,Cardio,Advanced,30,Full Body,Mat
+Exercise 11 - Yoga,Flexibility,Advanced,30,Back,Barbell
+Exercise 12 - HIIT,Cardio,Intermediate,10,Full Body,Resistance Bands
+Exercise 13 - Stretching,Flexibility,Advanced,20,Chest,Dumbbells
+Exercise 14 - Mountain Climbers,Core,Intermediate,15,Core,None
+Exercise 15 - Mountain Climbers,Core,Beginner,10,Core,Barbell
+Exercise 16 - Tai Chi,Flexibility,Intermediate,20,Full Body,Mat
+Exercise 17 - Lunges,Strength,Advanced,20,Back,None
+Exercise 18 - Crunches,Core,Beginner,30,Core,Dumbbells
+Exercise 19 - Lunges,Strength,Intermediate,30,Full Body,Dumbbells
+Exercise 20 - Lunges,Strength,Beginner,30,Arms,Dumbbells
+Exercise 21 - Lunges,Strength,Intermediate,10,Legs,Resistance Bands
+Exercise 22 - Deadlift,Strength,Beginner,20,Core,Resistance Bands
+Exercise 23 - Lunges,Strength,Intermediate,30,Back,Mat
+Exercise 24 - Running,Cardio,Intermediate,15,Full Body,Resistance Bands
+Exercise 25 - Lunges,Strength,Beginner,30,Legs,Mat
+Exercise 26 - Tai Chi,Flexibility,Advanced,20,Arms,None
+Exercise 27 - Cycling,Cardio,Beginner,20,Chest,Resistance Bands
+Exercise 28 - Plank,Core,Beginner,15,Core,Dumbbells
+Exercise 29 - Pilates,Flexibility,Beginner,10,Arms,Dumbbells
+Exercise 30 - Russian Twists,Core,Advanced,15,Core,None
+Exercise 31 - Rowing,Cardio,Intermediate,20,Full Body,Resistance Bands
+Exercise 32 - Running,Cardio,Beginner,30,Legs,Dumbbells
+Exercise 33 - Jump Rope,Cardio,Intermediate,30,Arms,Mat
+Exercise 34 - Squats,Strength,Advanced,15,Back,Dumbbells
+Exercise 35 - Yoga,Flexibility,Intermediate,10,Arms,Dumbbells
+Exercise 36 - Pilates,Flexibility,Beginner,15,Core,Barbell
+Exercise 37 - Running,Cardio,Intermediate,15,Chest,Resistance Bands
+Exercise 38 - Crunches,Core,Beginner,10,Full Body,Dumbbells
+Exercise 39 - Crunches,Core,Intermediate,20,Arms,Barbell
+Exercise 40 - Foam Rolling,Flexibility,Advanced,20,Full Body,None
+Exercise 41 - Tai Chi,Flexibility,Beginner,30,Core,Dumbbells
+Exercise 42 - Deadlift,Strength,Advanced,10,Legs,Barbell
+Exercise 43 - Lunges,Strength,Beginner,10,Back,None
+Exercise 44 - Stretching,Flexibility,Intermediate,15,Arms,Barbell
+Exercise 45 - Stretching,Flexibility,Intermediate,30,Arms,Barbell
+Exercise 46 - Deadlift,Strength,Advanced,20,Legs,Dumbbells
+Exercise 47 - Pushups,Strength,Beginner,10,Full Body,Resistance Bands
+Exercise 48 - Cycling,Cardio,Beginner,15,Full Body,Mat
+Exercise 49 - Stretching,Flexibility,Intermediate,30,Chest,Dumbbells
+Exercise 50 - Pushups,Strength,Beginner,15,Arms,Dumbbells
+Exercise 51 - Deadlift,Strength,Intermediate,20,Full Body,Mat
+Exercise 52 - Russian Twists,Core,Beginner,30,Legs,Dumbbells
+Exercise 53 - Pilates,Flexibility,Advanced,20,Back,Barbell
+Exercise 54 - Yoga,Flexibility,Intermediate,10,Core,None
+Exercise 55 - Dumbbell Press,Strength,Intermediate,20,Legs,Barbell
+Exercise 56 - Squats,Strength,Advanced,15,Arms,Barbell
+Exercise 57 - Dumbbell Press,Strength,Advanced,20,Arms,Barbell
+Exercise 58 - Cycling,Cardio,Intermediate,10,Legs,Resistance Bands
+Exercise 59 - Foam Rolling,Flexibility,Advanced,20,Arms,Resistance Bands
+Exercise 60 - Pushups,Strength,Advanced,10,Back,Barbell
+Exercise 61 - Pushups,Strength,Beginner,30,Legs,Barbell
+Exercise 62 - Lunges,Strength,Intermediate,15,Arms,Barbell
+Exercise 63 - Leg Raises,Core,Intermediate,10,Chest,Barbell
+Exercise 64 - Stretching,Flexibility,Advanced,20,Arms,Barbell
+Exercise 65 - Leg Raises,Core,Intermediate,30,Core,Barbell
+Exercise 66 - Dumbbell Press,Strength,Beginner,10,Full Body,Barbell
+Exercise 67 - Pushups,Strength,Advanced,20,Legs,Resistance Bands
+Exercise 68 - Leg Raises,Core,Advanced,30,Chest,Barbell
+Exercise 69 - Rowing,Cardio,Beginner,10,Chest,Dumbbells
+Exercise 70 - Tai Chi,Flexibility,Intermediate,20,Legs,Barbell
+Exercise 71 - Pilates,Flexibility,Advanced,30,Back,Resistance Bands
+Exercise 72 - Running,Cardio,Advanced,10,Core,Resistance Bands
+Exercise 73 - Running,Cardio,Advanced,15,Full Body,None
+Exercise 74 - Pushups,Strength,Advanced,15,Core,Mat
+Exercise 75 - Stretching,Flexibility,Intermediate,15,Full Body,Dumbbells
+Exercise 76 - Deadlift,Strength,Intermediate,15,Full Body,None
+Exercise 77 - Lunges,Strength,Intermediate,20,Arms,Barbell
+Exercise 78 - Foam Rolling,Flexibility,Intermediate,10,Legs,None
+Exercise 79 - Jump Rope,Cardio,Beginner,20,Core,None
+Exercise 80 - Running,Cardio,Intermediate,15,Full Body,Dumbbells
+Exercise 81 - Tai Chi,Flexibility,Beginner,20,Core,None
+Exercise 82 - Squats,Strength,Beginner,10,Back,None
+Exercise 83 - Plank,Core,Beginner,20,Back,Resistance Bands
+Exercise 84 - Stretching,Flexibility,Intermediate,30,Arms,Dumbbells
+Exercise 85 - Dumbbell Press,Strength,Beginner,20,Chest,Resistance Bands
+Exercise 86 - Pushups,Strength,Beginner,10,Arms,Dumbbells
+Exercise 87 - Deadlift,Strength,Advanced,30,Arms,Dumbbells
+Exercise 88 - Tai Chi,Flexibility,Beginner,20,Back,Dumbbells
+Exercise 89 - Pushups,Strength,Intermediate,30,Chest,Barbell
+Exercise 90 - Pilates,Flexibility,Intermediate,15,Full Body,Dumbbells
+Exercise 91 - Pushups,Strength,Advanced,20,Arms,Barbell
+Exercise 92 - Stretching,Flexibility,Intermediate,20,Arms,Mat
+Exercise 93 - HIIT,Cardio,Beginner,30,Chest,Barbell
+Exercise 94 - Jump Rope,Cardio,Intermediate,15,Full Body,None
+Exercise 95 - Leg Raises,Core,Intermediate,20,Core,Dumbbells
+Exercise 96 - Plank,Core,Intermediate,15,Core,Barbell
+Exercise 97 - HIIT,Cardio,Beginner,10,Legs,None
+Exercise 98 - Deadlift,Strength,Beginner,10,Full Body,Resistance Bands
+Exercise 99 - Rowing,Cardio,Intermediate,10,Legs,Barbell
+Exercise 100 - Lunges,Strength,Beginner,20,Chest,Resistance Bands
+Exercise 101 - Squats,Strength,Advanced,10,Arms,None
+Exercise 102 - Lunges,Strength,Beginner,10,Arms,None
+Exercise 103 - Stretching,Flexibility,Beginner,10,Core,Resistance Bands
+Exercise 104 - Foam Rolling,Flexibility,Beginner,10,Core,None
+Exercise 105 - Russian Twists,Core,Advanced,10,Back,Mat
+Exercise 106 - Leg Raises,Core,Beginner,15,Chest,Barbell
+Exercise 107 - Cycling,Cardio,Beginner,20,Chest,None
+Exercise 108 - Leg Raises,Core,Intermediate,10,Back,Resistance Bands
+Exercise 109 - Rowing,Cardio,Beginner,20,Core,Mat
+Exercise 110 - Russian Twists,Core,Advanced,30,Legs,Barbell
+Exercise 111 - Plank,Core,Intermediate,30,Arms,Mat
+Exercise 112 - Running,Cardio,Beginner,30,Chest,Dumbbells
+Exercise 113 - Plank,Core,Intermediate,20,Legs,Barbell
+Exercise 114 - Squats,Strength,Advanced,30,Legs,Dumbbells
+Exercise 115 - Leg Raises,Core,Intermediate,15,Back,Dumbbells
+Exercise 116 - Leg Raises,Core,Beginner,10,Arms,None
+Exercise 117 - Pilates,Flexibility,Intermediate,20,Arms,Barbell
+Exercise 118 - Pushups,Strength,Beginner,20,Back,None
+Exercise 119 - Deadlift,Strength,Beginner,30,Core,None
+Exercise 120 - Leg Raises,Core,Intermediate,30,Arms,None
+Exercise 121 - Squats,Strength,Intermediate,15,Chest,None
+Exercise 122 - Pushups,Strength,Beginner,30,Full Body,Resistance Bands
+Exercise 123 - Dumbbell Press,Strength,Beginner,20,Core,Mat
+Exercise 124 - Crunches,Core,Intermediate,30,Full Body,Resistance Bands
+Exercise 125 - Pushups,Strength,Advanced,10,Back,None
+Exercise 126 - Squats,Strength,Advanced,15,Back,Mat
+Exercise 127 - Russian Twists,Core,Advanced,30,Legs,Barbell
+Exercise 128 - Leg Raises,Core,Intermediate,30,Legs,None
+Exercise 129 - Cycling,Cardio,Beginner,30,Chest,Mat
+Exercise 130 - Leg Raises,Core,Beginner,20,Full Body,Dumbbells
+Exercise 131 - Rowing,Cardio,Advanced,10,Chest,Mat
+Exercise 132 - Plank,Core,Intermediate,15,Arms,Barbell
+Exercise 133 - Jump Rope,Cardio,Intermediate,30,Arms,Dumbbells
+Exercise 134 - Yoga,Flexibility,Intermediate,20,Legs,Mat
+Exercise 135 - Pilates,Flexibility,Beginner,15,Back,None
+Exercise 136 - Foam Rolling,Flexibility,Beginner,20,Legs,None
+Exercise 137 - Yoga,Flexibility,Intermediate,30,Chest,None
+Exercise 138 - Jump Rope,Cardio,Intermediate,15,Chest,Barbell
+Exercise 139 - Pilates,Flexibility,Advanced,20,Full Body,Dumbbells
+Exercise 140 - Mountain Climbers,Core,Beginner,15,Arms,Dumbbells
+Exercise 141 - Jump Rope,Cardio,Advanced,20,Arms,Dumbbells
+Exercise 142 - Yoga,Flexibility,Advanced,10,Full Body,Barbell
+Exercise 143 - Pushups,Strength,Intermediate,30,Full Body,Barbell
+Exercise 144 - Foam Rolling,Flexibility,Advanced,10,Chest,Mat
+Exercise 145 - Lunges,Strength,Intermediate,15,Chest,Barbell
+Exercise 146 - Squats,Strength,Beginner,15,Arms,Barbell
+Exercise 147 - Dumbbell Press,Strength,Beginner,20,Legs,Dumbbells
+Exercise 148 - HIIT,Cardio,Advanced,10,Core,Mat
+Exercise 149 - Yoga,Flexibility,Advanced,10,Legs,Dumbbells
+Exercise 150 - Yoga,Flexibility,Intermediate,10,Core,Barbell
