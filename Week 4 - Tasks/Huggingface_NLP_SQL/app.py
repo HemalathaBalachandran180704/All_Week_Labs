@@ -26,6 +26,7 @@
 #     return render_template("index.html", sql_query=sql_query, results=results)
 
 # if __name__ == "__main__":
+
 #     app.run(debug=True)
 
 from flask import Flask, render_template, request
