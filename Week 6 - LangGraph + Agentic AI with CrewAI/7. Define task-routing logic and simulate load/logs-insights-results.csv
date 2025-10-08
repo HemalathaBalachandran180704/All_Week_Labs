@@ -1,0 +1,38 @@
+@timestamp,@message,@logStream,@log
+2025-10-08 08:05:12.117,Fetched data for task type: user,run_1759910711,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:05:12.082,Fetched data for task type: user,run_1759910711,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:05:12.067,"END RequestId: ede0942e-6328-46c7-8cb6-19f04533c421
+",2025/10/08/[$LATEST]d94440f32c4c4b978f63e01b6c90334f,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 08:05:12.067,"REPORT RequestId: ede0942e-6328-46c7-8cb6-19f04533c421	Duration: 2.22 ms	Billed Duration: 106 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	Init Duration: 102.92 ms	
+",2025/10/08/[$LATEST]d94440f32c4c4b978f63e01b6c90334f,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 08:05:12.064,"START RequestId: ede0942e-6328-46c7-8cb6-19f04533c421 Version: $LATEST
+",2025/10/08/[$LATEST]d94440f32c4c4b978f63e01b6c90334f,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 08:05:12.063,Fetched data for task type: admin,run_1759910711,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:05:11.957,"INIT_START Runtime Version: python:3.12.v88	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:4af3157c9dfde29be4e8f128147181e8978958ec7ddea506e754af7c3741a0a2
+",2025/10/08/[$LATEST]d94440f32c4c4b978f63e01b6c90334f,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 08:00:29.153,Admin tasks completed for 1 users.,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:29.147,Admin tasks completed for 1 users.,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:29.119,User tasks completed for 1 users.,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:29.063,Admin tasks completed for 1 users.,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.740,Admin tasks completed for 1 users.,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.724,Fetched data for task type: admin,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.723,Fetched data for task type: user,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.720,Fetched data for task type: admin,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.716,Fetched data for task type: admin,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 08:00:28.654,Fetched data for task type: admin,run_1759910427,383856006878:/LangGraph/TaskRouting
+2025-10-08 07:41:07.727,"REPORT RequestId: 0d4e9b27-0748-43e5-8723-9de15ed00884	Duration: 2.48 ms	Billed Duration: 98 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	Init Duration: 95.26 ms	
+",2025/10/08/[$LATEST]8eb89f08b49d49de8f09a8cb3d0b6151,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:41:07.726,"END RequestId: 0d4e9b27-0748-43e5-8723-9de15ed00884
+",2025/10/08/[$LATEST]8eb89f08b49d49de8f09a8cb3d0b6151,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:41:07.723,"START RequestId: 0d4e9b27-0748-43e5-8723-9de15ed00884 Version: $LATEST
+",2025/10/08/[$LATEST]8eb89f08b49d49de8f09a8cb3d0b6151,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:41:07.625,"INIT_START Runtime Version: python:3.12.v88	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:4af3157c9dfde29be4e8f128147181e8978958ec7ddea506e754af7c3741a0a2
+",2025/10/08/[$LATEST]8eb89f08b49d49de8f09a8cb3d0b6151,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:23:16.719,"END RequestId: 006ddd41-a3e4-4193-b72c-1d71a18da2a0
+",2025/10/08/[$LATEST]ffdc50c604d14d4c83a38d480411676a,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:23:16.719,"REPORT RequestId: 006ddd41-a3e4-4193-b72c-1d71a18da2a0	Duration: 2.08 ms	Billed Duration: 90 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	Init Duration: 87.89 ms	
+",2025/10/08/[$LATEST]ffdc50c604d14d4c83a38d480411676a,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:23:16.717,"START RequestId: 006ddd41-a3e4-4193-b72c-1d71a18da2a0 Version: $LATEST
+",2025/10/08/[$LATEST]ffdc50c604d14d4c83a38d480411676a,383856006878:/aws/lambda/LangGraphStaticData
+2025-10-08 07:23:16.626,"INIT_START Runtime Version: python:3.12.v88	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:4af3157c9dfde29be4e8f128147181e8978958ec7ddea506e754af7c3741a0a2
+",2025/10/08/[$LATEST]ffdc50c604d14d4c83a38d480411676a,383856006878:/aws/lambda/LangGraphStaticData
