@@ -1,0 +1,17 @@
+streamlit
+pypdf
+langchain
+langchain-community
+sentence-transformers
+rank_bm25
+google-generativeai
+nltk
+faiss-cpu
+numpy
+torch
+chromadb
+weaviate-client
+pymilvus
+elasticsearch
+pdfplumber
+rouge-score
